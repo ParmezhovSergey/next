@@ -1,0 +1,8 @@
+.pageList {
+  display: flex;
+}
+.filter {
+  width: 20%;
+  border-right: 1px solid black;
+  height: calc(100vh - 90px);
+}
